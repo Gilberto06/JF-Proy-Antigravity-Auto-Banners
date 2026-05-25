@@ -93,6 +93,8 @@ JF-Proy-Antigravity-Auto-Banners/
 ├── Docs/
 │   ├── prd-servicio-auto-banners.md     # Documento de Requisitos del Producto (PRD)
 │   └── prompt-generacion-prd.md          # Instrucciones y prompts utilizados para el PRD
+├── Scripts/
+│   └── create_workflow.py                # Script de automatización de creación de workflow en AntigravityIDE
 ├── .gitignore                            # Exclusión de entornos, dependencias y archivos de sistema
 └── README.md                             # Documentación principal del proyecto
 ```
