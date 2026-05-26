@@ -2,6 +2,9 @@
 
 > **Plataforma Web Interna "Human-in-the-Loop"** diseñada para automatizar el workflow de creación, composición y reescalado de banners creativos utilizando Inteligencia Artificial Generativa y Orquestación Lógica.
 
+> [!NOTE]
+> **Desarrollo con Inteligencia Artificial:** Este proyecto ha sido diseñado e implementado en colaboración con **Google Antigravity**, optimizando la automatización del workflow creativo mediante agentes autónomos de IA.
+
 ---
 
 ## 📋 Índice
