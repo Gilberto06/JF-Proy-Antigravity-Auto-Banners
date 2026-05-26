@@ -1,4 +1,4 @@
-# 🚀 GenBanner IA: Sistema de Generación Automatizada de Banners Creativos
+# 🚀 Auto Banners: Sistema de Generación Automatizada de Banners Creativos
 
 > **Plataforma Web Interna "Human-in-the-Loop"** diseñada para automatizar el workflow de creación, composición y reescalado de banners creativos utilizando Inteligencia Artificial Generativa y Orquestación Lógica.
 
@@ -27,7 +27,7 @@ Actualmente, la agencia de medios produce aproximadamente **100 campañas de aut
 * Bloqueo de perfiles creativos de alto valor en tareas de redimensionamiento repetitivas.
 
 ### La Solución 🧠
-**GenBanner IA** es una solución interactiva de tipo **Human-in-the-Loop (HITL)** que combina automatización, procesamiento de lenguaje natural (LLM) y APIs de generación gráfica. La plataforma ingiere un artículo, analiza semánticamente su contenido para elegir la mejor imagen del DAM corporativo, propone copys/CTAs optimizados para cada formato y renderiza instantáneamente variantes profesionales.
+**Auto Banners** es una solución interactiva de tipo **Human-in-the-Loop (HITL)** que combina automatización, procesamiento de lenguaje natural (LLM) y APIs de generación gráfica. La plataforma ingiere un artículo, analiza semánticamente su contenido para elegir la mejor imagen del DAM corporativo, propone copys/CTAs optimizados para cada formato y renderiza instantáneamente variantes profesionales.
 
 > [!IMPORTANT]
 > **Filosofía Human-in-the-Loop:** El sistema restringe el bypass automático. Bajo ninguna circunstancia una campaña pasará directamente del formulario de entrada al empaquetado final sin haber sido validada y aprobada explícitamente por el **Supervisor Creativo**.
@@ -51,7 +51,7 @@ El proyecto está diseñado para implementarse con un stack moderno, ágil y esc
 
 ## 🔄 Flujo de Trabajo (Workflow)
 
-El pipeline de GenBanner IA consta de **8 pasos secuenciales** perfectamente orquestados:
+El pipeline de Auto Banners consta de **8 pasos secuenciales** perfectamente orquestados:
 
 ```mermaid
 graph TD

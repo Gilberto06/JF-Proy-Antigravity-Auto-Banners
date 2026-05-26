@@ -1,6 +1,6 @@
 # Documento de Requisitos del Producto (PRD)
 
-## Sistema de Generación Automatizada de Banners Creativos (GenBanner IA)
+## Sistema de Generación Automatizada de Banners Creativos (Auto Banners)
 **Versión:** 1.0 (MVP Operacional)  
 **Fecha:** Mayo 2026  
 **Autor:** Arquitecto de Producto Senior  
@@ -29,7 +29,7 @@
 La agencia de medios produce ~100 campañas de autopromoción al mes. Cada campaña requiere entre 3 y 8 formatos de banner (horizontal, vertical, cuadrado). Actualmente, el equipo creativo realiza este proceso de forma 100% manual (selección de assets, adaptación de copys a los contenedores y reescalado de formatos). Este flujo artesanal consume **45 minutos por campaña**, traduciéndose en **75 horas/mes** de trabajo puramente mecánico, un coste operativo directo de **1.875 €/mes (22.500 €/año)** y el bloqueo de perfiles creativos en tareas repetitivas de nulo valor añadido.
 
 ### Solución Propuesta
-**GenBanner IA** es una plataforma web interna *Human-in-the-Loop* que combina la automatización lógica de workflows con Inteligencia Artificial Generativa (LLMs y APIs de procesamiento de imágenes). El sistema ingiere un artículo base, selecciona los assets fotográficos óptimos mediante visión artificial, redacta copys adaptados al tono de marca/espacio, y renderiza automáticamente las variantes de banners necesarias.
+**Auto Banners** es una plataforma web interna *Human-in-the-Loop* que combina la automatización lógica de workflows con Inteligencia Artificial Generativa (LLMs y APIs de procesamiento de imágenes). El sistema ingiere un artículo base, selecciona los assets fotográficos óptimos mediante visión artificial, redacta copys adaptados al tono de marca/espacio, y renderiza automáticamente las variantes de banners necesarias.
 
 ### Propuesta de Valor
 Eliminar el trabajo mecánico de maquetación y adaptación multiformato. La IA asume la ejecución del borrador inicial y el reescalado, mientras que el equipo humano retiene el control de calidad, la edición fina y la aprobación estratégica.
@@ -51,7 +51,7 @@ Eliminar el trabajo mecánico de maquetación y adaptación multiformato. La IA 
 
 ### 3.1 Matriz de Roles y Permisos
 
-| Acción dentro de GenBanner IA | Ejecutivo de Cuentas | Supervisor Creativo |
+| Acción dentro de Auto Banners | Ejecutivo de Cuentas | Supervisor Creativo |
 |--------|:---:|:---:|
 | Ingestar artículo y solicitar campaña | ✅ | ❌ |
 | Editar copys y CTAs generados por IA en el borrador | ✅ | ✅ |
